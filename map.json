@@ -1711,7 +1711,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"ChillZone"
+                         "value":"CafetChillZone"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -1765,7 +1765,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"MontparnasseMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -1792,7 +1792,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"EiffelMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -1819,7 +1819,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"OrsayMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2066,7 +2066,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"BeaubourgMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2093,7 +2093,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"SacreCoeurMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2120,7 +2120,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"NotreDameMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2147,7 +2147,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"CoffreMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2174,7 +2174,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"OpsMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2201,7 +2201,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"AMeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2233,7 +2233,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"BMeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2265,7 +2265,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"LouvreMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2292,7 +2292,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"BastilleMeetingRoom"
                         }, 
                         {
                          "name":"zoom_margin",
@@ -2319,7 +2319,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MeetingRoom"
+                         "value":"VostokMeetingRoom"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -2337,6 +2337,33 @@
                  "width":72.6492,
                  "x":6743.99688075986,
                  "y":1973.05002929859
+                }, 
+                {
+                 "height":730.844966655089,
+                 "id":93,
+                 "name":"Toilets",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":402.463991663772,
+                 "x":3860.94237026745,
+                 "y":1006.58168478638
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2527,7 +2554,7 @@
          "y":0
         }],
  "nextlayerid":61,
- "nextobjectid":91,
+ "nextobjectid":94,
  "orientation":"orthogonal",
  "properties":[
         {
