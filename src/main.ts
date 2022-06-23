@@ -11,6 +11,27 @@ WA.onInit().then(() => {
     console.log('Scripting API ready');
     WA.chat.sendChatMessage('Welcome to UA!', 'Mr Robot');
     console.log('Player tags: ',WA.player.tags)
+    WA.ui.openPopup("popUpEiffel","Tour Eiffel",[]);
+    WA.ui.openPopup("popUpOrsay","Orsay",[]);
+    WA.ui.openPopup("popUpVelo","Velo",[]);
+    WA.ui.openPopup("popUpMontparnasse","Montparnasse",[]);
+    WA.ui.openPopup("popUpAvenueDesOps","Avenue Des Ops",[]);
+    WA.ui.openPopup("popUpOps","Ops",[]);
+    WA.ui.openPopup("popUpOpsTraining","Ops Training",[]);
+    WA.ui.openPopup("popUpNotreDame","Notre Dame",[]);
+    WA.ui.openPopup("popUpCoffre","Salle des Coffres",[]);
+    WA.ui.openPopup("popUpSacreCoeur","Sacre Coeur",[]);
+    WA.ui.openPopup("popUpBeaubourg","Beaubourg",[]);
+    WA.ui.openPopup("popUpCentrale","Centrale",[]);
+    WA.ui.openPopup("popUpCantine","Cantine",[]);
+    WA.ui.openPopup("popUpRevenues","Revenues",[]);
+    WA.ui.openPopup("popUpCCnX","CC&X",[]);
+    WA.ui.openPopup("popUpDataProduct","Data Product",[]);
+    WA.ui.openPopup("popUpLouvre","Louvre",[]);
+    WA.ui.openPopup("popUpCSE","CSE",[]);
+    WA.ui.openPopup("popUpBastille","Bastille",[]);
+    WA.ui.openPopup("popUpChill","Chill Zone",[]);
+    WA.ui.openPopup("popUpTech","Tech",[]);
 
     WA.room.onEnterLayer('clockZone').subscribe(() => {
         const today = new Date();
