@@ -1871,12 +1871,12 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":""
         }, 
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Welcome to Ubble!"
         }, 
         {
          "name":"mapImage",
@@ -1886,12 +1886,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":""
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Ubble HQ"
         }, 
         {
          "name":"script",
@@ -2052,6 +2052,97 @@
          "name":"ubble-adventure-logo",
          "spacing":0,
          "tilecount":10,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":2966,
+         "image":"tilesets\/modernset_floor_3.png",
+         "imageheight":340,
+         "imagewidth":340,
+         "margin":0,
+         "name":"modernset_floor_3",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":17,
+         "firstgid":3066,
+         "image":"tilesets\/modernset_interior.png",
+         "imageheight":1700,
+         "imagewidth":544,
+         "margin":0,
+         "name":"modernset_interior",
+         "spacing":0,
+         "tilecount":901,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":20,
+         "firstgid":3967,
+         "image":"tilesets\/modern_interiors.png",
+         "imageheight":7786,
+         "imagewidth":646,
+         "margin":0,
+         "name":"modern_interiors",
+         "spacing":0,
+         "tilecount":4860,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":23,
+         "firstgid":8827,
+         "image":"tilesets\/Office_interiors_shadowless_32x32.png",
+         "imageheight":816,
+         "imagewidth":748,
+         "margin":0,
+         "name":"Office_interiors_shadowless_32x32",
+         "spacing":0,
+         "tilecount":575,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":21,
+         "firstgid":9402,
+         "image":"tilesets\/extset_ice.png",
+         "imageheight":306,
+         "imagewidth":680,
+         "margin":0,
+         "name":"extset_ice",
+         "spacing":0,
+         "tilecount":189,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":9591,
+         "image":"tilesets\/modernset_floor.png",
+         "imageheight":408,
+         "imagewidth":340,
+         "margin":0,
+         "name":"modernset_floor",
+         "spacing":0,
+         "tilecount":120,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":17,
+         "firstgid":9711,
+         "image":"tilesets\/LimeZu_14_Basement_32x32.png",
+         "imageheight":1700,
+         "imagewidth":544,
+         "margin":0,
+         "name":"LimeZu_14_Basement_32x32",
+         "spacing":0,
+         "tilecount":901,
          "tileheight":32,
          "tilewidth":32
         }],
