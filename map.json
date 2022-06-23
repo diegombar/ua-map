@@ -2341,7 +2341,7 @@
                 {
                  "height":199.410440778048,
                  "id":93,
-                 "name":"Toilets",
+                 "name":"Toilets1",
                  "properties":[
                         {
                          "name":"focusable",
@@ -2368,7 +2368,7 @@
                 {
                  "height":319.243275442862,
                  "id":94,
-                 "name":"Toilets",
+                 "name":"Toilets2",
                  "properties":[
                         {
                          "name":"focusable",
@@ -2395,7 +2395,7 @@
                 {
                  "height":404.341992705801,
                  "id":95,
-                 "name":"Toilets",
+                 "name":"Toilets3",
                  "properties":[
                         {
                          "name":"focusable",
